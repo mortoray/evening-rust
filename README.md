@@ -1,6 +1,8 @@
 ![Evening Rust with Edaqa Mortoray](https://i.imgur.com/NhuHviy.png)
 
-View the [Evening Rust stream](https://www.twitch.tv/mortoray).
+- View the [Evening Rust stream](https://www.twitch.tv/mortoray).
+- Follow me on [CodinGame](https://www.codingame.com/profile/d80803a736ead2e22ac1485b5557492b4353142)
+- View [previous episodes](https://www.youtube.com/channel/UCOkkR7mihbnNnPD8yxhW56Q/featured)
 
 I'll be storing code and related things here. 
 
