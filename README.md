@@ -28,3 +28,15 @@ Other stuff:
 - [ioncodes' combinations generator](https://gist.github.com/ioncodes/3401ebc8c71bd41638e483e96d2d40f1)
 - [CodinGame sources](https://github.com/CodinGame/)
 - [Agade's Code4Life post-mortem](https://github.com/Agade09/Agade-Code-4-Life-Postmortem/blob/master/Agade_C4L_Postmortem.md)
+
+Git Setup:
+
+- use meld
+- `git difftool --dir-diff`
+
+
+## Rust Commands
+
+- `cargo run --bin bin_name`
+- `cargo test test_name -- --nocapture`
+- `cargo test --tests`  (Just `tests` directory)
